@@ -2,6 +2,8 @@
 # Welcome to The AI Guild 🚀
 
 **This code is a part of a module in our vibrant AI community 🚀[Join the AI Guild Community](https://bit.ly/ai-guild-join), where like-minded entrepreneurs and programmers come together to build real-world AI-based solutions.**
+# Ollama Course – Build AI Apps Locally
+https://youtu.be/GWB9ApTPTv4?si=zbIOeguRXRJA0uv9
 
 ### What is The AI Guild?
 The AI Guild is a collaborative community designed for developers, tech enthusiasts, and entrepreneurs who want to **build practical AI tools** and solutions. Whether you’re just starting or looking to level up your skills, this is the place to dive deeper into AI in a supportive, hands-on environment.
